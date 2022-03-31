@@ -9,3 +9,6 @@ spring:
 
 mybatis:
   mapper-locations: classpath:mapper/*Mapper.xml
+
+# 以下无用
+# test1
