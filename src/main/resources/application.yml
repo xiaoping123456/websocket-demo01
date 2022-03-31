@@ -10,10 +10,4 @@ spring:
 mybatis:
   mapper-locations: classpath:mapper/*Mapper.xml
 
-# 以下无用
-# test1
-# hot-fix
-# hot-fix test
-# master test
 
-# pull test
